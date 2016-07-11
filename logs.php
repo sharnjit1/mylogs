@@ -61,10 +61,10 @@
     </tr>
   </thead>
      <?php
-$servername = "localhost";
-$username = "local";
-$password = "host";
-$dbname = "mylogs";
+$servername = "mysql11.000webhost.com";
+$username = "a8484588_s";
+$password = "a111111";
+$dbname = "a8484588_s";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
